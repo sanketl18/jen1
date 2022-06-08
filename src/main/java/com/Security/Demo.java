@@ -14,7 +14,7 @@ public class Demo {
 @GetMapping("/user")
 public String getuser()
 {
-	return "welcome user";
+	return "welcome sanket";
 }
 @GetMapping("/Admin")
 public String getAdmin()
